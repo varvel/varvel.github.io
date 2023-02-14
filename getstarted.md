@@ -51,7 +51,14 @@ Note that this was the easy way to *create* your website, but it does come at a 
      color: blue }
 
 .gs-section-02 p {
-     font-size: 25px;
+     font-size: 20px;
+}  
+  
+.gs-section-03 h3 { 
+     color: green }
+
+.gs-section-03 p {
+     font-size: 40px;
 }  
   
 </style>
