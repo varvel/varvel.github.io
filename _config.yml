@@ -64,6 +64,7 @@ social-network-links:
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.
+description: This website is a virtual proof that I exist
 # If you don't want to show an RSS link, remove the following line.
 rss-description: This website is a virtual proof that I exist
 
