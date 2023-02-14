@@ -47,4 +47,11 @@ Note that this was the easy way to *create* your website, but it does come at a 
      font-size: 30px;
 }
 
+.gs-section-02 h3 { 
+     color: blue }
+
+.gs-section-02 p {
+     font-size: 25px;
+}  
+  
 </style>
